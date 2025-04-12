@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhtasim Bashar</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Junior Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-mb2205153&label=Profile%20views&color=942192&style=flat" alt="mohd-mb2205153" /> </p>
 
