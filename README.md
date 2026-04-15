@@ -10,7 +10,7 @@
 <!-- Programming Languages -->
 <p align="left">
   <!-- Skillicons -->
-  <img src="https://skillicons.dev/icons?i=python,java,c,cs,dart,html,css,js,ts,react,nextjs,flutter,tailwind,tensorflow,sqlite,firebase,git,docker,linux,bash,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cs,dart,html,css,js,ts,react,nextjs,flutter,tailwind,tensorflow,sqlite,firebase,git,docker,linux,bash,figma,latex," />
 </p>
 
 
